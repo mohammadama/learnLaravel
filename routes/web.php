@@ -41,6 +41,7 @@ $posts = [
         'title' => 'Intro to js',
         'content' => 'This is a short intro to js',
         'is_new' => false
+        
     ]
 ];
 
